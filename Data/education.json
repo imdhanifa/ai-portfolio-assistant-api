@@ -1,8 +1,14 @@
 [
   {
-    "institution": "Mohamed Sathak Polytechnic College",
-    "degree": "Diploma in Computer Engineering (DCE)",
-    "startDate": "2016",
-    "endDate": "2019"
-  }
+      "institution": "Kalasalingam Academy of Research and Education",
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Mohamed Sathak Polytechnic College",
+      "degree": "Diploma in Computer Engineering (DCE)",
+      "startDate": "2016",
+      "endDate": "2019"
+    }
 ]
